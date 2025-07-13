@@ -19,10 +19,10 @@ This repo contains **daily problem‑solving folders** with:
 
 ## 📆 Progress Tracker
 
-| Day  | Topic                                             | Problems Solved | Folder Link |
+| Day  | Topic                                             | Problems Solved | Folder |
 |------|---------------------------------------------------|-----------------|-------------|
-| 1    | Arrays Basics (Traversal, Max, Min, Reverse)      | —    5           | — |
-| 2    | Arrays Operations (Insert, Delete, Rotate)        | —               | — |
+| 1    | Arrays Basics (Traversal, Max, Min, Reverse)      |     5           | Day_1 |
+| 2    | Arrays Operations (Insert, Delete, Rotate)        |                | — |
 | 3    | Searching & Sorting (Basic, Custom Sort)          | —               | — |
 | 4    | Hashing (Frequency count, Majority, Two Sum)      | —               | — |
 | 5    | Strings Basics (Palindrome, Duplicates)           | —               | — |
