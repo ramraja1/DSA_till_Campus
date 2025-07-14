@@ -10,12 +10,12 @@ Emphasis on **manual logic (no heavy STL)** and a first taste of **fixed‑size 
 
 | # | Problem | Concept Focus | File Name | Status |
 |---|---------|--------------|-----------|--------|
-| 1 | Count Vowels & Consonants | Basic traversal | `count_vowels_consonants.cpp` | ✅ / ⬜ |
-| 2 | Reverse a String (manual) | Two‑pointer | `reverse_string_manual.cpp` | ✅ / ⬜ |
-| 3 | Check Palindrome (manual) | Two‑pointer | `is_palindrome.cpp` | ✅ / ⬜ |
-| 4 | Character Frequency (a‑z) | Array of size 26 | `char_frequency.cpp` | ✅ / ⬜ |
-| 5 | First Non‑Repeating Character | Two passes / freq array | `first_non_repeating_char.cpp` | ✅ / ⬜ |
-| 6 | Max Vowels in Substring of Length K | Fixed‑size sliding window | `max_vowels_in_window_k.cpp` | ✅ / ⬜ |
+| 1 | Count Vowels & Consonants | Basic traversal | `count_vowels_consonants.cpp` | ✅ / ✅ |
+| 2 | Reverse a String (manual) | Two‑pointer | `reverse_string_manual.cpp` | ✅ / ✅ |
+| 3 | Check Palindrome (manual) | Two‑pointer | `is_palindrome.cpp` | ✅ / ✅ |
+| 4 | Character Frequency (a‑z) | Array of size 26 | `char_frequency.cpp` | ✅ / ✅ |
+| 5 | First Non‑Repeating Character | Two passes / freq array | `first_non_repeating_char.cpp` | ✅ / ✅ |
+| 6 | Max Vowels in Substring of Length K | Fixed‑size sliding window | `max_vowels_in_window_k.cpp` | ✅ / ✅ |
 
 > Mark **Status** as ✅ when solved and push the code; keep ⬜ while pending.
 
