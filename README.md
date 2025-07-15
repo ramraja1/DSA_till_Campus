@@ -22,7 +22,7 @@ This repo contains **daily problem‑solving folders** with:
 | Day  | Topic                                             | Problems Solved | Folder |
 |------|---------------------------------------------------|-----------------|-------------|
 | 1    | Arrays Basics (Traversal, Max, Min, Reverse)      |     5           | Day_1 |
-| 2    | Arrays Operations (Insert, Delete, Rotate)        |                | — |
+| 2    | Arrays Operations (Insert, Delete, Rotate)        |     5           | Day_2|
 | 3    | Searching & Sorting (Basic, Custom Sort)          | —               | — |
 | 4    | Hashing (Frequency count, Majority, Two Sum)      | —               | — |
 | 5    | Strings Basics (Palindrome, Duplicates)           | —               | — |
