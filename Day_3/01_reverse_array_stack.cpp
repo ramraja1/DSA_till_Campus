@@ -28,5 +28,18 @@ int main(){
 
     }
     stack<int>s;
-    
+    for(auto i:arr){
+        s.push(i);
+    }
+    int i=0;
+    while(!s.empty()){
+            arr[i]=s.top();
+            i++;
+            s.pop();
+    }
+
+    for(auto i:arr){
+        cout<<i<<" ";
+    }
+
 }
