@@ -22,8 +22,8 @@ This repo contains **daily problem‑solving folders** with:
 | Day  | Topic                                             | Problems Solved | Folder |
 |------|---------------------------------------------------|-----------------|-------------|
 | 1    | Arrays Basics (Traversal, Max, Min, Reverse)      |     5           | Day_1 |
-| 2    | Arrays Operations (Insert, Delete, Rotate)        |     5           | Day_2|
-| 3    | Searching & Sorting (Basic, Custom Sort)          | —               | — |
+| 2    |  Strings Basics (Palindrome, Duplicates)          |     5           | Day_2 |
+| 3    | Stack (Balanced Brackets, NGE, Min Stack)         |     4           | Day_3 |
 | 4    | Hashing (Frequency count, Majority, Two Sum)      | —               | — |
 | 5    | Strings Basics (Palindrome, Duplicates)           | —               | — |
 | 6    | Two Pointers + Sliding Window                     | —               | — |
