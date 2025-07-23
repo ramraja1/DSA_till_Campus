@@ -38,31 +38,40 @@
     Window 6: {30, 16, 28} → No negative → 0
 
 */
-
 #include<iostream>
 #include<vector>
 
 using namespace std;
+
 int main(){
-
     int n;
-    cin>>n;
-    vector<int>arr(n);
-    for(int i=0;i<n;i++)cin>>arr[i];
+    cin >> n;
+    vector<int> arr(n);
+    for(int i = 0; i < n; i++) cin >> arr[i];
+
     int k;
-    cin>>k;
-    vector<int>ans;
-    for(int i=0;i<n;i++){
-        for(int j=i;j<k;j++){
-            if(arr[j]<0){
+    cin >> k;
+
+    vector<int> ans;
+
+    for(int i = 0; i <= n - k; i++) {
+        bool found = false;
+
+        for(int j = i; j < i + k; j++) {
+            if(arr[j] < 0) {
                 ans.push_back(arr[j]);
+                found = true;
                 break;
-
             }
-
         }
-    }
-    for(auto i:arr)cout<<i<<endl;
 
+        if(!found) ans.push_back(0);
+    }
+
+    for(auto val : ans) {
+        cout << val << " ";
+    }
+
+    cout << endl;
     return 0;
 }
