@@ -9,7 +9,7 @@
 ## 🔍 Problems Solved:
 1. Max Sum Subarray of size K
 2. Subarray Sum Equals K
-3. Min Difference Between K elements
+3. Min Difference Between K Aelements
 4. Find Minimum in Rotated Sorted Array
 
 ## 🧠 Concepts Learned:
